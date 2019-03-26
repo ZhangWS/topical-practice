@@ -1,3 +1,1 @@
-Tutorial notebooks written to talk through specific python algorithms or procedures, meant for education as well as for reference.
-
-I don't dislike SpaCy as much as my NLP notebook would suggest. Using SpaCy is simply overkill for something as simple as preprocessing. :)
+Tutorial notebooks written to familiarize myself with specific python practices or algorithms. Copiously commented for reference!
